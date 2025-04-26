@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @kadirov-uz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Samandar (Mr.Kadirov)
 
-<!---
-kadirov-uz/kadirov-uz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in web development, frontend technologies, and creative digital projects.
+
+🌱 I’m currently learning advanced React and Node Js.
+
+💬 I love sharing ideas and learning from like-minded developers.
+
+💞️ I’m looking to collaborate on open-source projects, creative frontend experiments, and tech communities.
+
+📫 How to reach me: @MrMustafoKadir 
+
+💬 Most people call me Mustafa Kadir or simply Mustafa.
